@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "195869521790",
+    "project_id": "roomy-ai-23077",
+    "storage_bucket": "roomy-ai-23077.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195869521790:android:2ca4cbf38529906deae52f",
+        "android_client_info": {
+          "package_name": "com.example.roomy_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxkRUMgD2abswoi53mo-eQ44kXphWmOKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
