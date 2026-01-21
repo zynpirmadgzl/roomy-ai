@@ -12,3 +12,10 @@ GeneratedPluginRegistrant.java
 key.properties
 **/*.keystore
 **/*.jks
+
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
+
+service-account.json
+firebase-adminsdk-*.json
+*.pem
